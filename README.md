@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **C++, Java, html, CSS, JS**
 
-- 💬 Ask me about **linux**
+- 💬 Ask me about **😣**
 
 - 📫 How to reach me **suunybaruasins@gmail.com**
 
