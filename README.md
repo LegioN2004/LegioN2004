@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 hope you're doing well, I'm Milinda Barua</h1>
-<h3 align="center">A student from India learning programming and linux and new to git and github</h3>
+<h3 align="center">A student from India learning programming and linux and new to git and github(just starting out)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=legion2004&label=Profile%20views&color=0e75b6&style=flat" alt="legion2004" /> </p>
 
