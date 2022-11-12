@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sunnybarua12" target="blank"><img src="https://img.shields.io/twitter/follow/sunnybarua12?logo=twitter&style=for-the-badge" alt="sunnybarua12" /></a> </p>
 
-- 🌱 I’m currently learning **C++, Java, html, CSS, JS**
+- 🌱 I’m currently learning **C++, Java, html, CSS**
 
 - 💬 Ask me about **😣**
 
