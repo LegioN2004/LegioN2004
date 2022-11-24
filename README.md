@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 hope you're doing well, I'm Milinda Barua</h1>
-<h3 align="center">learning how to program , about linux, git, web dev and much more within this holy place and exploring the world of computers</h3>
+<h3 align="center">learning how to program , about linux, git, web dev and much more within this holy place and exploring the world of technology</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=legion2004&label=Profile%20views&color=0e75b6&style=flat" alt="legion2004" /> </p>
 
