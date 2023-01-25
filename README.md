@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 hope you're doing well, I'm Milinda Barua</h1>
+<h1 align="center">Hi 👋 hope you're doing well, I'm a human being</h1>
 <h1 align="center">Oiiiiiiiiii kenee, ki khbor bhal nai haaaaaaaaa kla 🤣</h1>
 <h3 align="center">learning how to program , about linux, git, web dev and much more within this holy place and exploring the world of technology</h3>
 
