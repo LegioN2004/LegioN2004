@@ -3,7 +3,7 @@
  <h3 align="center"> I use arch btw </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=legion2004&label=Profile%20views&color=0e75b6&style=flat" alt="legion2004" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=legion2004&theme=darkhub&show_icons=true&count_private=true&no-bg=false&no-frame=false" alt="legion2004"></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=legion2004&theme=darkhub&show_icons=true&count_private=true&no-bg=false&no-frame=false&row=1&column=6" alt="legion2004"></a> </p>
 
 <!-- <p align="left"> <a href="https://twitter.com/sunnybarua12" target="blank"><img src="https://img.shields.io/twitter/follow/sunnybarua12?logo=twitter&style=for-the-badge" alt="sunnybarua12" /></a> </p> -->
 
