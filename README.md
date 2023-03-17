@@ -30,7 +30,7 @@
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"> -->
 
 ## 📈 STATS
-<img align="center" src="![LegioN's github stats](https://github-readme-stats.vercel.app/api?username=legion2004&theme=github_dark&show_icons=true&hide_border=true&hide=issues&count_private=true)"><img src="https://github-readme-streak-stats.herokuapp.com/?user=legion2004&hide_border=true&hide=issues&theme=github_dark"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=legion2004&theme=github_dark&layout=compact&langs_count=10&disable_animations=false&hide_progress=false&hide_border=true&hide=issues">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=legion2004&theme=github_dark&show_icons=true&hide_border=true&hide=issues&count_private=true"><img src="https://github-readme-streak-stats.herokuapp.com/?user=legion2004&hide_border=true&hide=issues&theme=github_dark"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=legion2004&theme=github_dark&layout=compact&langs_count=10&disable_animations=false&hide_progress=false&hide_border=true&hide=issues">
 
 ## 🖥 OS
 <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"> <img src="https://img.shields.io/badge/fedora-blue?style=for-the-badge&logo=appveyor"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
