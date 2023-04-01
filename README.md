@@ -2,7 +2,9 @@
 <h3 align="center">Here for becoming a part of the open source community; learning all about programming stuff; looking forward to open source collabs,projects, and much more in this holy place called GitHub and exploring the world of technology</h3>
 <h3 align="center"> I use arch btw </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=legion2004&label=Profile%20views&color=0e75b6&style=flat" alt="legion2004" /> </p>
-## eyecandy trophies
+
+ ## 🏆 eyecandy trophies
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=legion2004&theme=darkhub&no-frame=true&show_icons=true&count_private=true" alt="legion2004"></a> </p>
 
 <!-- <p align="left"> <a href="https://twitter.com/sunnybarua12" target="blank"><img src="https://img.shields.io/twitter/follow/sunnybarua12?logo=twitter&style=for-the-badge" alt="sunnybarua12" /></a> </p> -->
@@ -13,7 +15,7 @@
 
 - 📫 How to reach me **suunybaruasins@gmail.com**
 
-## 🙋‍♂️ Connect with me:
+## 🙋‍♂️ Connect with me
 
 <p align="left">
 <a href="https://twitter.com/sunnybarua12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sunnybarua12" height="30" width="40" /></a>
@@ -21,7 +23,7 @@
 <a href="https://www.hackerrank.com/sunnybaruasins" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sunnybaruasins" height="30" width="40" /></a>
 </p>
 
-## 🛠 Tools:
+## 🛠 Tools
 
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"></a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <!-- <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p> -->
 
