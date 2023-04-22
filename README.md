@@ -33,7 +33,7 @@
 
 ## 📈 STATS
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=legion2004&theme=github_dark&show_icons=true&hide_border=true&hide=issues&count_private=true" /></p> <img src="https://github-readme-streak-stats.herokuapp.com/?user=legion2004&hide_border=true&hide=issues&theme=github_dark"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=legion2004&theme=github_dark&layout=compact&langs_count=10&disable_animations=false&hide_progress=false&hide_border=true&hide=issues">
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=legion2004&theme=github_dark&show_icons=true&hide_border=true&hide=issues&count_private=true" /></p> <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=legion2004&hide_border=true&hide=issues&theme=github_dark" /></p> <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=legion2004&theme=github_dark&layout=compact&langs_count=10&disable_animations=false&hide_progress=false&hide_border=true&hide=issues">
 
 ## 🖥 OS
 
