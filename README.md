@@ -5,7 +5,7 @@
 
  ## 🏆 eyecandy trophies
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=legion2004&theme=darkhub&no-frame=true&show_icons=true&count_private=true&column=2" alt="legion2004"></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=legion2004&theme=darkhub&no-frame=true&show_icons=true&count_private=true&row=2" alt="legion2004"></a> </p>
 
 <!-- <p align="left"> <a href="https://twitter.com/sunnybarua12" target="blank"><img src="https://img.shields.io/twitter/follow/sunnybarua12?logo=twitter&style=for-the-badge" alt="sunnybarua12" /></a> </p> -->
 
