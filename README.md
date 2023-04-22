@@ -34,8 +34,12 @@
 
 ## 📈 STATS
 
-<p align="left"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=legion2004&theme=github_dark&show_icons=true&hide_border=true&hide=issues&count_private=true&card_width=300px" /></p> <p align="right"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=legion2004&theme=github_dark&layout=compact&langs_count=5&disable_animations=false&hide_progress=false&hide_border=true&hide=issues&card_width=200" /></p>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=legion2004&hide_border=true&hide=issues&theme=github_dark" /></p>
+<!-- <p align="left"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=legion2004&theme=github_dark&show_icons=true&hide_border=true&hide=issues&count_private=true&card_width=300px" /></p> <p align="right"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=legion2004&theme=github_dark&layout=compact&langs_count=15&disable_animations=false&hide_progress=false&hide_border=true&hide=issues&card_width=200" /></p> -->
+<!-- <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=legion2004&hide_border=true&hide=issues&theme=github_dark" /></p> -->
+<a href="https://github.com/thepiyushmalhotra">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thepiyushmalhotra&theme=noctis_minimus&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thepiyushmalhotra&theme=noctis_minimus&layout=compact" />
+</a>
 
 ## 🖥 OS
 
@@ -45,4 +49,4 @@
 
 <h6>I have installed a lot of servers btw of ubuntu and fedora </h6>
 
-![Snake animation , hisssssssssssssssssss](https://github.com/LegioN2004/LegioN2004/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation , hisssssssssssssssssss](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg) -- do this from the dev.to website of thepiyushmalhotra github -->
