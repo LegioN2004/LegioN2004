@@ -36,8 +36,8 @@
 
 <!-- <p align="left"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=legion2004&theme=github_dark&show_icons=true&hide_border=true&hide=issues&count_private=true&card_width=300px" /></p> <p align="right"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=legion2004&theme=github_dark&layout=compact&langs_count=15&disable_animations=false&hide_progress=false&hide_border=true&hide=issues&card_width=200" /></p> -->
 <a href="https://github.com/LegioN2004">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LegioN2004&theme=github_dark&show_icons=true&hide_border=true&hide=issues&count_private=true&&exclude_repo=[dotfiles]" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LegioN2004&theme=github_dark&layout=compact&langs_count=15&disable_animations=fals&hide_progress=false&hide_border=true&exclude_repo=[dotfiles]" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LegioN2004&theme=github_dark&show_icons=true&hide_border=true&hide=issues&count_private=true&&exclude_repo=dotfiles,some-other-stuff,Catalogue,the-algorithm,random-sht-priv,suckless-utils-fork,dwm-flexipatch" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LegioN2004&theme=github_dark&layout=compact&langs_count=15&disable_animations=fals&hide_progress=false&hide_border=true&exclude_repo=some-other-stuff,Catalogue,the-algorithm,random-sht-priv,suckless-utils-fork,dwm-flexipatch" />
 </a>
 <h6 align="center">Overall STATS</h6>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=legion2004&hide_border=true&hide=issues&theme=github_dark" /></p>
