@@ -9,7 +9,7 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/sunnybarua12" target="blank"><img src="https://img.shields.io/twitter/follow/sunnybarua12?logo=twitter&style=for-the-badge" alt="sunnybarua12" /></a> </p> -->
 
-- 🌱 I’m currently learning **C++, Java, html, CSS**
+- 🌱 I’m currently learning **C++, JAVA, HTML, CSS**
 
 - 💬 Ask me about **😣**
 
@@ -27,17 +27,9 @@
 
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"></a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <!-- <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p> -->
 
-<<<<<<< HEAD
-
 ## 🈹 Language (learning btw)
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"> 
 <!-- <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"> -->
-=======
-## 🈹 Language
-
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <!-- <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"> -->
->>>>>>> d7669d6b37e77912a27b12e20682f3d2fec9f632
 
 ## 📈 STATS
 
