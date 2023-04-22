@@ -24,7 +24,6 @@
 <!-- </p> -->
 
 ## 🛠 Tools
-
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"></a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <!-- <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p> -->
 
 ## 🈹 Language (learning btw)
@@ -33,7 +32,7 @@
 
 ## 📈 STATS
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=legion2004&theme=github_dark&show_icons=true&hide_border=true&hide=issues&count_private=true" /></p> <p align="right"><img src="https://github-readme-streak-stats.herokuapp.com/?user=legion2004&hide_border=true&hide=issues&theme=github_dark" /></p> <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=legion2004&theme=github_dark&layout=compact&langs_count=10&disable_animations=false&hide_progress=false&hide_border=true&hide=issues">
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=legion2004&theme=github_dark&show_icons=true&hide_border=true&hide=issues&count_private=true" /></p> <p align="right"><img src="https://github-readme-streak-stats.herokuapp.com/?user=legion2004&hide_border=true&hide=issues&theme=github_dark" /></p> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=legion2004&theme=github_dark&layout=compact&langs_count=10&disable_animations=false&hide_progress=false&hide_border=true&hide=issues">
 
 ## 🖥 OS
 
