@@ -5,7 +5,7 @@
 
  ## 🏆 eyecandy trophies
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=legion2004&theme=darkhub&no-frame=true&show_icons=true&count_private=true" alt="legion2004"></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=legion2004&theme=darkhub&no-frame=true&show_icons=true&count_private=true&row=2" alt="legion2004"></a> </p>
 
 <!-- <p align="left"> <a href="https://twitter.com/sunnybarua12" target="blank"><img src="https://img.shields.io/twitter/follow/sunnybarua12?logo=twitter&style=for-the-badge" alt="sunnybarua12" /></a> </p> -->
 
@@ -33,7 +33,7 @@
 
 ## 📈 STATS
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=legion2004&theme=github_dark&show_icons=true&hide_border=true&hide=issues&count_private=true" /></p> <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=legion2004&hide_border=true&hide=issues&theme=github_dark" /></p> <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=legion2004&theme=github_dark&layout=compact&langs_count=10&disable_animations=false&hide_progress=false&hide_border=true&hide=issues">
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=legion2004&theme=github_dark&show_icons=true&hide_border=true&hide=issues&count_private=true" /></p> <p align="right"><img src="https://github-readme-streak-stats.herokuapp.com/?user=legion2004&hide_border=true&hide=issues&theme=github_dark" /></p> <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=legion2004&theme=github_dark&layout=compact&langs_count=10&disable_animations=false&hide_progress=false&hide_border=true&hide=issues">
 
 ## 🖥 OS
 
