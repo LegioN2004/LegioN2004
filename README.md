@@ -49,6 +49,6 @@
 
 - [ ] LFS 😭
 
-<h6>I have installed a lot of servers btw of ubuntu and fedora </h6>
+<h6>I have installed a lot of servers of ubuntu, debian and fedora btw</h6><h7>( maybe it's easy, idk everything is gui and ncurses, but cmd line comes after that that is also easy af setting up)</h7>
 
-<!-- ![Snake animation , hisssssssssssssssssss](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg) -- do this from the dev.to website of thepiyushmalhotra github -->
+<!-- ![Snake animation , hisssssssssssssssssss](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snaake.svg) -- do this from the dev.to website of thepiyushmalhotra github -->
