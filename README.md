@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 hope you're doing well, kene asa broooooooooooooooooooo </h1>
 <h3 align="center">Here for becoming a part of the open source community; learning all about programming stuff; looking forward to open source collabs,projects, and much more in this holy place called GitHub and exploring the world of technology</h3>
-<h3 align="center"> I use arch btw </h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=legion2004&label=Profile%20views&color=0e75b6&style=flat" alt="legion2004" /> </p>
 
  ## 🏆 eyecandy trophies
@@ -45,6 +45,7 @@
 ## 🖥 OS
 
 <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"> <img src="https://img.shields.io/badge/fedora-blue?style=for-the-badge&logo=appveyor"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+<h3 align="center"> I use arch btw </h3>
 
 - [ ] LFS 😭
 
