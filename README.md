@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 hope you're doing well, kene asa broooooooooooooooooooo </h1>
+<h1 align="center">Hi 👋 hope you're doing well</h1>
 <h3 align="center">Here for becoming a part of the open source community; learning all about computers ; looking forward to open source collabs, projects, and much more in this holy place; exploring the world of technology</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=legion2004&label=Profile%20views&color=0e75b6&style=flat" alt="legion2004" /> </p>
@@ -49,6 +49,6 @@
 
 - [ ] LFS 😭
 
-<h6>I have installed a lot of servers of ubuntu, debian and fedora btw</h6><h7>( maybe it's easy, idk everything is gui and ncurses, but cmd line comes after that that is also easy af setting up)</h7>
+<h6>I have installed a lot of servers of ubuntu, debian and fedora btw</h6>
 
 <!-- ![Snake animation , hisssssssssssssssssss](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snaake.svg) -- do this from the dev.to website of thepiyushmalhotra github -->
