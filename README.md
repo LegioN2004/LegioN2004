@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 hope you're doing well</h1>
-<h3 align="center">Here for becoming a part of the open source community; learning all about computers ; looking forward to open source collabs, projects, and much more in this holy place; exploring the world of technology</h3>
+<h3 align="center">Here for becoming a part of the open source community; learning all about the new exciting tech; looking forward to open source collabs, projects, and much more in this holy place</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=legion2004&label=Profile%20views&color=0e75b6&style=flat" alt="legion2004" /> </p>
 
@@ -25,11 +25,14 @@
 
 ## 🛠 Tools
 
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"></a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <!-- <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p> -->
+<!-- <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"></a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <!-1- <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p> -1-> -->
+[![My Tools](https://skillicons.dev/icons?i=vscode,neovim,idea,md,vim,emacs)](https://skillicons.dev)
 
-## 🈹 Languages (learning btw)
+## 🈹 Languages
 
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
+  [![My Skills](https://skillicons.dev/icons?i=java,cpp,js,html,css,lua,nodejs,bash)](https://skillicons.dev)
+<!-- <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/js-%231572B6.svg?style=for-the-badge&logo=js&logoColor=white"> -->
+
 <!-- <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"> -->
 
 ## 📈 STATS
@@ -49,6 +52,6 @@
 
 - [ ] LFS(too hard) 😭
 
-<h6>I have installed and used a lot of server OSes of ubuntu, debian and fedora btw (unnecessary detail)</h6>
+<!-- <h6>I have installed and used a lot of server OSes of ubuntu, debian and fedora btw (unnecessary detail)</h6> -->
 
 <!-- ![Snake animation , hisssssssssssssssssss](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snaake.svg) -- do this from the dev.to website of thepiyushmalhotra github -->
