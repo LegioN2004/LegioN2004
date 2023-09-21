@@ -52,9 +52,6 @@
     <img align="right" alt="GitHub followers" src="https://skillicons.dev/icons?i=java,cpp,js,html,css,lua,nodejs,bash">
 </a>
 
-
-## 📊 Stats
-
 <a href="https://github.com/LegioN2004">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LegioN2004&theme=github_dark&show_icons=true&hide_border=true&hide=issues&count_private=true&&exclude_repo=dotfiles,some-other-stuff,Catalogue,the-algorithm,random-sht-priv,suckless-utils-fork,dwm-flexipatch" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LegioN2004&theme=github_dark&layout=compact&langs_count=15&disable_animations=fals&hide_progress=false&hide_border=true&exclude_repo=some-other-stuff,Catalogue,the-algorithm,random-sht-priv,suckless-utils-fork,dwm-flexipatch" />
