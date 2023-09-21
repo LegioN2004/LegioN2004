@@ -26,7 +26,7 @@
 ## 🛠 Tools
 
 <!-- <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"></a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <!-1- <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p> -1-> -->
-[![My Tools](https://skillicons.dev/icons?i=vscode,neovim,idea,md,vim,emacs)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=linux,git,vscode,neovim,idea,md,vim,emacs)](https://skillicons.dev)
 
 ## 🈹 Languages
 
