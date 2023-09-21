@@ -19,11 +19,11 @@
 
 ## 🛠 Tools
 
-[![My Skills](https://skillicons.dev/icons?i=linux,git,vscode,neovim,idea,md,vim,emacs)](https://skillicons.dev)
+<!-- [![My Skills](https://skillicons.dev/icons?i=linux,git,vscode,neovim,idea,md,vim,emacs)](https://skillicons.dev) -->
 
 ## 🈹 Languages and Tech stacks
 
-[![My Skills](https://skillicons.dev/icons?i=java,cpp,html,css,js,lua,bash,nodejs)](https://skillicons.dev)
+<!-- [![My Skills](https://skillicons.dev/icons?i=java,cpp,html,css,js,lua,bash,nodejs)](https://skillicons.dev) -->
 
 ## 📈 STATS
 
