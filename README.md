@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=legion2004&label=Profile%20views&color=0e75b6&style=flat" alt="legion2004" /> </p>
 
- ## 🏆 eyecandy trophies
+## 🏆 eyecandy trophies
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=legion2004&theme=darkhub&no-frame=true&show_icons=true&count_private=true&row=2" alt="legion2004"></a> </p>
 
@@ -30,7 +30,7 @@
 
 ## 🈹 Languages
 
-  [![My Skills](https://skillicons.dev/icons?i=java,cpp,js,html,css,lua,nodejs,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,cpp,js,html,css,lua,nodejs,bash)](https://skillicons.dev)
 <!-- <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/js-%231572B6.svg?style=for-the-badge&logo=js&logoColor=white"> -->
 
 <!-- <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"> -->
