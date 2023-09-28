@@ -62,10 +62,10 @@
 ## 🖥 OS
 
 <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"> <img src="https://img.shields.io/badge/fedora-blue?style=for-the-badge&logo=appveyor"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-<h3 align="left"> I use arch and Win btw </h3>
+<h3 align="left"> I use arch btw </h3>
 
-- Windows too bad
-- [ ] LFS(too hard) 😭
+- Windows ux lmao
+- LFS(too hard) 😭
 
 <!-- <h6>I have installed and used a lot of server OSes of ubuntu, debian and fedora btw (unnecessary detail)</h6> -->
 
