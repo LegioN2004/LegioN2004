@@ -71,15 +71,19 @@
 
 ## Come vibe with me 🦜
 
+<div>
 <p align="left">
     <img align="left" src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="90" height="90"/>
 </p>
 <p align="right">
     <img align="right" src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="90" height="90"/>
 </p>
+</div>
 
-
+<div>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/LegioN2004/LegioN2004/blob/output/github-contribution-grid-snake.gif" />
-  <img alt="github-snake" src="https://github.com/LegioN2004/LegioN2004/blob/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LegioN2004/LegioN2004/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LegioN2004/LegioN2004/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
+</div>
