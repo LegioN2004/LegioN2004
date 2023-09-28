@@ -80,3 +80,10 @@
 <p align="right">
     <img align="right" src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="90" height="90"/>
 </p>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
