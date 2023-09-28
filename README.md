@@ -74,9 +74,6 @@
 <p align="left">
     <img align="left" src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="90" height="90"/>
 </p>
-<p align="center">
-    <img align="center" src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="90" height="90"/>
-</p>
 <p align="right">
     <img align="right" src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="90" height="90"/>
 </p>
