@@ -81,3 +81,10 @@
 </div>
 
 <!-- ![snake gif](https://github.com/LegioN2004/LegioN2004/blob/output/github-contribution-grid-snake.gif) -->
+
+
+## 📛 Badges
+
+[![An image of my GCP badge](https://www.cloudskillsboost.google/public_profiles/d88db451-eb32-437f-8c4a-39f9006e991e/badges/5495759)](https://www.cloudskillsboost.google/public_profiles/d88db451-eb32-437f-8c4a-39f9006e991e)
+[![An image of my Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/legion2004)](https://holopin.io/@legion2004)
+
