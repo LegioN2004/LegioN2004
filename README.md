@@ -12,8 +12,8 @@
     <a href="https://www.linkedin.com/in/sunny-barua-511469242/">
         <img alt="GitHub followers" src="https://img.shields.io/badge/-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/sunny-barua-511469242//" height="30" width="40" >
     </a>
-    <a href="https://twitter.com/intent/follow?screen_name=sunnybarua12">
-        <img alt="Follow me in twitter" src="https://img.shields.io/twitter/follow/sunnybarua12?style=social">
+    <a href="https://twitter.com/intent/follow?screen_name=MilindaBarua04">
+        <img alt="Follow me in twitter" src="https://img.shields.io/twitter/follow/MilindaBarua04?style=social">
     </a>
     <a href="https://reddit.com/u/TheLegioN2004">
         <img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/TheLegioN2004?label=karma&logo=reddit">
