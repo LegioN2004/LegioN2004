@@ -39,7 +39,7 @@
 <!-- [![wakatime](https://wakatime.com/badge/user/eafdbba4-cec2-4c99-8cd5-5fc36bb00274.svg)](https://wakatime.com/@eafdbba4-cec2-4c99-8cd5-5fc36bb00274) -->
 
 <p align="center">
-    <a href="https://www.hackerrank.com/sunnybaruasins" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sunnybaruasins" height="30" width="40" /></a>
+    <a href="https://www.hackerrank.com/LegioN04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="LegioN04" height="30" width="40" /></a>
     <a href="https://leetcode.com/LegioN2004/">
         <img alt="GitHub followers" src="https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FLegioN2004&logo=leetcode&logoColor=yellow">
     </a>
