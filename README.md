@@ -55,7 +55,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-      <img align="center" alt="GitHub followers" src="https://skillicons.dev/icons?i=linux,git,vscode,neovim,idea,,js,html,css,mongodb,express,react,vite,java,cpp,lua,nodejs">
+      <img align="center" alt="GitHub followers" src="https://skillicons.dev/icons?i=linux,git,vscode,neovim,idea,js,html,css,mongodb,express,react,vite,java,cpp,lua,nodejs">
   </a>
 </p>
 
