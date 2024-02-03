@@ -1,10 +1,16 @@
 <h1 align="center">Hi 👋 I'm Milinda, hope you're doing well</h1>
 
-<h3 align="center">Here for becoming a part of the open source community; learning all about the new exciting tech; looking forward to open source collabs, projects, and much more in this holy place</h3>
+<h3 align="center">Here for becoming a part of the open source community, learning all about the new and exciting tech, motivated to improve open source software, collabs, and much more in this holy place</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=LegioN2004&label=Visitors&color=0e75b6&style=flat" alt="legion2004" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=legion2004&theme=darkhub&no-frame=true&show_icons=true&count_private=true&row=2" alt="legion2004"></a> </p>
+<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=legion2004&theme=darkhub&no-frame=true&show_icons=true&count_private=true&row=2" alt="legion2004"></a> </p> -->
+<a href="https://github.com/LegioN2004">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LegioN2004&theme=github_dark&show_icons=true&hide_border=true&hide=issues&count_private=true&&exclude_repo=dotfiles,some-other-stuff,Catalogue,the-algorithm,random-sht-priv,suckless-utils-fork,dwm-flexipatch" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LegioN2004&theme=github_dark&layout=compact&langs_count=15&disable_animations=fals&hide_progress=false&hide_border=true&exclude_repo=some-other-stuff,Catalogue,the-algorithm,random-sht-priv,suckless-utils-fork,dwm-flexipatch" />
+</a>
+<h6 align="center">Overall STATS<i>(if you don't see stuff around here refresh)</i></h6>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=legion2004&hide_border=true&hide=issues&theme=github_dark" /></p>
 
 ## 🙋 Connect with me
 
@@ -47,34 +53,30 @@
 
 ## 🧰 I work with
 
-<a href="https://skillicons.dev">
-    <img align="left" alt="GitHub followers" src="https://skillicons.dev/icons?i=git,linux,vscode,neovim,idea,md,vim,emacs">
-    <img align="right" alt="GitHub followers" src="https://skillicons.dev/icons?i=java,cpp,js,html,css,lua,nodejs,bash">
-</a>
+<p align="center">
+  <a href="https://skillicons.dev">
+      <img align="center" alt="GitHub followers" src="https://skillicons.dev/icons?i=linux,git,vscode,neovim,idea,,js,html,css,mongodb,express,react,vite,java,cpp,lua,nodejs">
+  </a>
+</p>
 
-<a href="https://github.com/LegioN2004">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LegioN2004&theme=github_dark&show_icons=true&hide_border=true&hide=issues&count_private=true&&exclude_repo=dotfiles,some-other-stuff,Catalogue,the-algorithm,random-sht-priv,suckless-utils-fork,dwm-flexipatch" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LegioN2004&theme=github_dark&layout=compact&langs_count=15&disable_animations=fals&hide_progress=false&hide_border=true&exclude_repo=some-other-stuff,Catalogue,the-algorithm,random-sht-priv,suckless-utils-fork,dwm-flexipatch" />
-</a>
-<h6 align="center">Overall STATS</h6>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=legion2004&hide_border=true&hide=issues&theme=github_dark" /></p>
+## 🖥 OSes
 
-## 🖥 OS
+<!-- <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"> <img src="https://img.shields.io/badge/fedora-blue?style=for-the-badge&logo=appveyor"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> -->
 
-<img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"> <img src="https://img.shields.io/badge/fedora-blue?style=for-the-badge&logo=appveyor"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-<h3 align="left"> I use arch btw </h3>
+<img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+
+<h3 align="left"> I use Arch btw </h3>
 
 - Windows ux lmao
 - LFS(too hard) 😭
 
 <!-- <h6>I have installed and used a lot of server OSes of ubuntu, debian and fedora btw (unnecessary detail)</h6> -->
 
-## 📛 Badges
+## Nothing here 🦜
 
-[![An image of my GCP badge](https://www.cloudskillsboost.google/public_profiles/d88db451-eb32-437f-8c4a-39f9006e991e/badges/5495759)](https://www.cloudskillsboost.google/public_profiles/d88db451-eb32-437f-8c4a-39f9006e991e)
-[![An image of my Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/legion2004)](https://holopin.io/@legion2004)
-
-## Come vibe with me 🦜
+- 📛 Some Badges
+  - [GCP badges](https://www.cloudskillsboost.google/public_profiles/d88db451-eb32-437f-8c4a-39f9006e991e)
+  - [Holopin badges](https://holopin.io/@legion2004)
 
 <div>
 <p align="left">
@@ -86,6 +88,3 @@
 </div>
 
 <!-- ![snake gif](https://github.com/LegioN2004/LegioN2004/blob/output/github-contribution-grid-snake.gif) -->
-
-
-
