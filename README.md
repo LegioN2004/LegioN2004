@@ -15,7 +15,7 @@
 ## 🙋 Connect with me
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/sunny-barua-511469242/">
+    <a href="https://www.linkedin.com/in/milinda-barua/">
         <img alt="GitHub followers" src="https://img.shields.io/badge/-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/sunny-barua-511469242//" height="30" width="40" >
     </a>
     <a href="https://twitter.com/intent/follow?screen_name=MilindaBarua04">
@@ -30,9 +30,9 @@
     <a href="https://t.me/DevManushehe">
         <img alt="Message me in telegram" src="https://img.shields.io/badge/-c14438?style=social&logo=Telegram&logoColor=red&color=red&link=https://t.me/DevManushehe">
     </a>
-    <a href="mailto:email@sunnybaruasins@gmail.com">
-        <!-- <img alt="GitHub followers" src="https://img.shields.io/badge/-@sunnybaruasins@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:email@sunnybaruasins@gmail.com"> -->
-        <img alt="GitHub followers" src="https://img.shields.io/badge/-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:email@sunnybaruasins@gmail.com">
+    <a href="mailto:email@milindabarua04@gmail.com">
+        <!-- <img alt="GitHub followers" src="https://img.shields.io/badge/-@milindabarua04@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:email@milindabarua04@gmail.com"> -->
+        <img alt="GitHub followers" src="https://img.shields.io/badge/-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:email@milindabarua04@gmail.com">
     </a>
     <a href="https://dev.to/LegioN2004">
         <img alt="GitHub followers" src="https://img.shields.io/badge/-c14438?style=social&logo=Dev.to&logoColor=black&link=https://dev.to/LegioN2004">
