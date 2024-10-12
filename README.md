@@ -72,11 +72,18 @@
 
 <!-- <h6>I have installed and used a lot of server OSes of ubuntu, debian and fedora btw (unnecessary detail)</h6> -->
 
-## Nothing here 🦜
+## 📛 Some Badges
 
-- 📛 Some Badges
-  - [GCP badges](https://www.cloudskillsboost.google/public_profiles/d88db451-eb32-437f-8c4a-39f9006e991e)
-  - [Holopin badges](https://holopin.io/@legion2004)
+- [GCP badges](https://www.cloudskillsboost.google/public_profiles/d88db451-eb32-437f-8c4a-39f9006e991e)
+- [Holopin badges](https://holopin.io/@legion2004)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LegioN2004/LegioN2004/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LegioN2004/LegioN2004/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LegioN2004/LegioN2004/output/github-contribution-grid-snake.svg">
+</picture>
+
+## Nothing here 🦜
 
 <div>
 <p align="left">
