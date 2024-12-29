@@ -21,9 +21,6 @@
     <a href="https://twitter.com/intent/follow?screen_name=MilindaBarua04">
         <img alt="Follow me in twitter" src="https://img.shields.io/twitter/follow/MilindaBarua04?style=social">
     </a>
-    <a href="https://reddit.com/u/TheLegioN2004">
-        <img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/TheLegioN2004?label=karma&logo=reddit">
-    </a>
     <a href="https://github.com/LegioN2004?tab=followers">
         <img alt="GitHub followers" src="https://img.shields.io/github/followers/LegioN2004?color=green&logo=github">
     </a>
