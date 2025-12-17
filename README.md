@@ -31,8 +31,8 @@
 </p>
 <!-- ![Clerk](https://img.shields.io/badge/Clerk-%23000000.svg?style=for-the-badge&logo=clerk&logoColor=white)   -->
 
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LegioN2004/LegioN2004/output/github-contribution-grid-snake-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LegioN2004/LegioN2004/output/github-contribution-grid-snake.svg">
-<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LegioN2004/LegioN2004/output/github-contribution-grid-snake.svg">
-</picture>
+<!-- <picture> -->
+<!-- <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LegioN2004/LegioN2004/output/github-contribution-grid-snake-dark.svg"> -->
+<!-- <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LegioN2004/LegioN2004/output/github-contribution-grid-snake.svg"> -->
+<!-- <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LegioN2004/LegioN2004/output/github-contribution-grid-snake.svg"> -->
+<!-- </picture> -->
