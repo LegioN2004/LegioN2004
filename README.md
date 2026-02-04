@@ -19,7 +19,6 @@
     <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React" />
     <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
     <img src="https://img.shields.io/badge/Hono-%23FF4F00.svg?style=for-the-badge&logo=hono&logoColor=white" alt="Hono" />
-    <img src="https://img.shields.io/badge/JSON%20Web%20Tokens-%23000000.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
     <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
     <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
     <img src="https://img.shields.io/badge/Prisma-%232D3748.svg?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
@@ -27,6 +26,13 @@
     <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
     <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
     <img src="https://img.shields.io/badge/NGINX-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="NGINX" />
+    <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+    <img src="https://img.shields.io/badge/Authentik-%23000000.svg?style=for-the-badge&logo=authentik&logoColor=white" alt="Authentik" />
+    <img src="https://img.shields.io/badge/Cloudflare-%23F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+    <img src="https://img.shields.io/badge/Traefik-%2300C7B7.svg?style=for-the-badge&logo=traefik&logoColor=white" alt="Traefik" />
+    <img src="https://img.shields.io/badge/Caddy-%233AA8A8.svg?style=for-the-badge&logo=caddy&logoColor=white" alt="Caddy" />
+    <img src="https://img.shields.io/badge/MinIO-%23F6921E.svg?style=for-the-badge&logo=minio&logoColor=white" alt="MinIO" />
+    <img src="https://img.shields.io/badge/Portainer-%23171717.svg?style=for-the-badge&logo=portainer&logoColor=white" alt="Portainer" />
     <img src="https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
 </p>
 <!-- ![Clerk](https://img.shields.io/badge/Clerk-%23000000.svg?style=for-the-badge&logo=clerk&logoColor=white)   -->
